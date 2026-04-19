@@ -1,0 +1,12 @@
+stm32f103ze_robot_car\port_1.o: ..\..\..\STM32F103ZE_hhc_robot\freertos\port.c
+stm32f103ze_robot_car\port_1.o: ..\..\..\STM32F103ZE_hhc_robot\freertos\FreeRTOS.h
+stm32f103ze_robot_car\port_1.o: D:\PROFROMFILE\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32f103ze_robot_car\port_1.o: D:\PROFROMFILE\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f103ze_robot_car\port_1.o: ../Core/Inc/FreeRTOSConfig.h
+stm32f103ze_robot_car\port_1.o: ..\..\..\STM32F103ZE_hhc_robot\freertos\projdefs.h
+stm32f103ze_robot_car\port_1.o: ..\..\..\STM32F103ZE_hhc_robot\freertos\portable.h
+stm32f103ze_robot_car\port_1.o: ..\..\..\STM32F103ZE_hhc_robot\freertos\deprecated_definitions.h
+stm32f103ze_robot_car\port_1.o: ..\..\..\STM32F103ZE_hhc_robot\freertos\portmacro.h
+stm32f103ze_robot_car\port_1.o: ..\..\..\STM32F103ZE_hhc_robot\freertos\mpu_wrappers.h
+stm32f103ze_robot_car\port_1.o: ..\..\..\STM32F103ZE_hhc_robot\freertos\task.h
+stm32f103ze_robot_car\port_1.o: ..\..\..\STM32F103ZE_hhc_robot\freertos\list.h
