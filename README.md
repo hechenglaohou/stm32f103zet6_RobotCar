@@ -136,18 +136,6 @@ LICENSE：开源许可证（MIT License）
 
 通过串口调试助手（波特率默认 115200），可查看实时数据，也可发送指令控制小车运动（需配置串口指令逻辑）。
 
-效果图模板（请替换为自己的实际效果图）
-### 1. 硬件实物图 ![硬件实物图](https://example\.com/robotcar\_physical\.jpg\)
-（说明：小车整体实物照片，清晰展示主控板、电机、激光雷达、OLED 等模块的安装位置）
-
-### 2. OLED 显示效果图 ![OLED 显示图](https://example\.com/oled\_display\.jpg\)
-（说明：OLED 实时显示界面，包含电机速度、障碍物距离、舵机角度等参数）
-
-### 3. 激光雷达扫描演示图 ![雷达扫描演示](https://example\.com/radar\_scan\.gif\)
-（说明：舵机扫描 + 激光测距演示，可展示障碍物检测效果）
-
-### 4. 运行演示视频 [运行演示视频](https://example\.com/robotcar\_demo\.mp4\)
-（说明：小车运行、雷达扫描、避障等功能的完整演示视频）
 
 项目下载
 ZIP 完整下载（直接解压可用）：https://github.com/hechenglaohou/stm32f103zet6_RobotCar/archive/refs/heads/main.zip
